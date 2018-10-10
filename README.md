@@ -1,7 +1,7 @@
 
 ![picture](https://a.top4top.net/p_1010vmsd71.jpg)
 
- <a href="about.html">City of Electronics</a> Is a fast and lightweight web server for all systems.
+ <a href="https://albeeralkhawri.github.io/City-of-Electronics/">City of Electronics</a> Is a fast and lightweight web server for all systems.
 Designed to be scalable with low memory consumption and CPU consumption,
 it is the ideal solution for slow hardware environments and high productivity environments.
 
@@ -16,7 +16,7 @@ Our services are all the following_...
 
  - Computer 
  - Mobile 
- - Tap
+ - Tab
  -PhotoCopes
  -Printers
 #### Installation
