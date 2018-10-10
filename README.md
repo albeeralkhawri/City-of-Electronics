@@ -176,7 +176,7 @@ I used a variety of methods to test the responsiveness of my website. These incl
 **Acknowledgements**
 
 My thanks and appreciation to everyone who helped me and increased my programming 
-experience and special thanks to<a href="https://.codeinstitute.net"> Codeinstitute</a> and my masterly Ali ashik .
+experience and special thanks to<a href="https://courses.codeinstitute.net/program/FullstackWebDeveloper"> Codeinstitute</a> and my masterly Ali ashik .
 
  
 
