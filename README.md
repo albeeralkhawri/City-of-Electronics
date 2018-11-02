@@ -1,18 +1,17 @@
-
 ![picture](https://a.top4top.net/p_1010vmsd71.jpg)
 
  <a href="https://albeeralkhawri.github.io/City-of-Electronics/">City of Electronics</a> Is a fast and lightweight web server for all systems.
 Designed to be scalable with low memory consumption and CPU consumption,
 it is the ideal solution for slow hardware environments and high productivity environments.
 
-## ux 
+## UX
 
 _Our goal is to provide our services to the whole world,
 some of our services are free,
  and some are paid,
 Our services are all the following_...
 
-#### maintenance
+#### Maintenance
 
  - Computer 
  - Mobile 
@@ -26,7 +25,6 @@ Our services are all the following_...
 - Server 
 - Web Side
 
-**Please communicate benefit from our services All services are not displayed on  website**
 
 ![picture](https://e.top4top.net/p_101003u4d1.png)
 
@@ -106,7 +104,7 @@ These included:
 #### Media Page with a width of 731px
 ![picture](https://e.top4top.net/p_10001m2wu1.png)
 
-**Testing**
+**Testing:**
 I used a variety of methods to test the responsiveness of my website. These included:
 
 **Contact form:**
@@ -151,7 +149,7 @@ I used a variety of methods to test the responsiveness of my website. These incl
   orks perfectly in all entries. I tried to send an empty message and tried to send 
   fake email and tried not to write it. All these tests passed successfully.
 
-  **Deployment**
+  ### Deployment
   
   The project was posted on a github hosted system and this is
   my induction name (https://github.com/albeeralkhawri)
@@ -177,8 +175,3 @@ I used a variety of methods to test the responsiveness of my website. These incl
 
 My thanks and appreciation to everyone who helped me and increased my programming 
 experience and special thanks to<a href="https://courses.codeinstitute.net/program/FullstackWebDeveloper"> Codeinstitute</a> and my masterly Ali ashik .
-
- 
-
-
-
