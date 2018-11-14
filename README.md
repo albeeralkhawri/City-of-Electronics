@@ -56,8 +56,8 @@ and <a href="http://getbootstrap.com/">Bootstrap</a> to shorten the time and mak
 
 ## Features Left to Implement
 
- - An easy and simple website you can get everything you want easily
-
+ - The contact form from contact.html page is broken at the moment because we don't have an e-mail server to actually send the e-mails. An implementation is needed for this, otherwise we would need to use some external service to handle this for us. A discussion is needed to decide whether this is going to be implemented or not.
+ 
 **Technologies Used**
 
  * <a href="https://en.wikipedia.org/wiki/HTML5">HTML5</a>
